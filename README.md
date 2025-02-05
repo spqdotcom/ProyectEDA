@@ -4,6 +4,9 @@ https://docs.google.com/spreadsheets/d/1ZyeA2Ze2O_LpsysPy8iLhzfuxesk4TKY/edit?us
 ### Canva
 https://www.canva.com/design/DAGePgn6e58/GxVz2zWL2usHhr_eLr5vuw/edit
 
+*** Google Doc
+https://docs.google.com/document/d/1GF66-zBpF1sGPLVFXXVlmD99dM7KBFR-bNR1CLHOOb4/edit?tab=t.0
+
 TASK LIST
 Day 1:
 
