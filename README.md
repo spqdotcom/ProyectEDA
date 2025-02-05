@@ -42,3 +42,10 @@ KPI's
   - Cost Effectiveness
   - Likelyhood to spend more on new method *
   - Statistical significance of results *
+
+Day 4:
+
+Hypothesis
+1: Simplified or streamlined new method makes it easier for clients to spend (more) money.
+2:
+3:
